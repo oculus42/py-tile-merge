@@ -1,6 +1,7 @@
 ## README
-# Tile Download and Stitch
+# Tile Download and Stitcher
 # Python 3 Download Script
+# https://github.com/oculus42/py-tile-merge
 #
 # Image Merge uses the Pillow Library
 # On windows, install Pillow with the following command
