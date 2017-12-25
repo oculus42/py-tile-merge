@@ -2,6 +2,8 @@
 ## Python 3 Tile Download and Merge Script
 Basic Tiled Image Download and Stitching
 
+Some high-quality image viewers use a tile system like Open Street Maps or Google Maps, where image content is downloaded in a number of small pieces. Sometimes those images are public domain but have no option to download the original, high-quality source. That's why this script exists.
+
 ## Requirements
 * Python 3
 * Pillow
